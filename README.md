@@ -1,6 +1,6 @@
 # flutter_exemplo
 
-A new Flutter project.
+Projeto do Flutter para testes dos widgets do Material Design e desenvolvimento da pratica de uso dos mesmos. Varios conceitos utilizados nesse projeto onde varios widgets sao utilizados.
 
 ## Getting Started
 
